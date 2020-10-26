@@ -1,4 +1,8 @@
-### Hi there 👋
+### :octocat: Hi, I'm Jose
+
+:dart: I have experience in developing and designing software focusing mainly on microservices architectures.
+
+:mag: Look at some of my works at [Medium](https://medium.com/@jofigueredo)
 
 <!--
 **josefigueredo/josefigueredo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
