@@ -6,6 +6,7 @@
 - 🔗 Blockchain, web3
 - 📍 Buenos Aires, Argentina
 - 🗣 Opinions are my own
+- 🔗 Contact me @ https://t.co/BBXF0tqywC
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josefigueredo&show_icons=true&theme=dark&hide_border=false)
