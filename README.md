@@ -3,7 +3,7 @@
 - 👨🏻‍💻 Tech Geek, he/him
 - ☁️ Solutions Architect @ Wenance
 - 💻 Software developer
-- 🔗 Blockchain, web3
+- 🦾 Generative AI
 - 📍 Buenos Aires, Argentina
 - 🗣 Opinions are my own
 - 🔗 Contact me @ https://t.co/BBXF0tqywC
